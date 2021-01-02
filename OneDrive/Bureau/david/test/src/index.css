@@ -1,0 +1,264 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.logoApp{
+  width: 140px;
+}
+#row_principal
+{
+  width: 100% !important;
+}
+
+#div_login
+{
+  text-align: right;
+}
+
+.button_span_login
+{
+  border: 0px;
+}
+
+a.nav-link {
+  color: #000 !important;
+  margin-right: 10px;
+  font-weight: 600;
+}
+
+button.btn.btn-outline-success.button_span_login1 {
+  color: #fff !important;
+  font-weight: 600;
+  border-color: #4c3c9a;
+  background-color: #4c3c9a;
+}
+
+#colCategoryWise
+{
+  text-align: left;
+}
+
+#rowCourses
+{
+  margin-top: 40px;
+}
+#colCategoryWise h1{
+  font-weight: 700;
+}
+
+#divCategoryWise
+{
+  margin-top: 80px;
+}
+
+#button_span_login1_2
+{
+  padding: 15px 40px 15px 40px;
+  margin-top: 20px;
+
+  color: #4c3c9a !important;
+  font-weight: 600;
+  border-color: #4c3c9a;
+  background-color: transparent !important;
+}
+
+button.btn.btn-outline-success.button_span_login {
+  color: #000 !important;
+  font-weight: 600;
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+#div_enroll_gauche
+{
+  text-align: left;
+}
+.h1EnrollGauche
+{
+  font-size: 3rem;
+  font-weight: 700;
+}
+
+p.pEnrollGauche {
+  margin-top: 30px;
+}
+#button_span_login1_2
+{
+  padding: 15px 40px 15px 40px;
+  margin-top: 20px;
+}
+
+.divImageDroite {
+  overflow-y: hidden;
+  height: 400px;
+}
+
+.contextDiv
+{
+  width: 200px;
+  text-align: left;
+  padding: 10px;
+  background: #f49999;
+  border-radius: 20px 30px 40px 50px;
+  position: absolute;
+  right: 30%;
+  bottom: 30px;
+  padding-top: 40px;
+}
+
+div#rowSatisfaction {
+  margin-top: 150px;
+}
+
+div#card1 {
+  height: 235px;
+  padding: 0px;
+  text-align: left;
+}
+
+h1.h1Satisfaction {
+  font-weight: 700;
+  margin-bottom: 40px;
+}
+
+#spanSatisfaction
+{
+  height: 55px;
+    width: 65px;
+    text-align: center;
+    padding: 10px;
+    background: #ccc;
+    padding-top: 10px;
+    font-size: 35px;
+    margin-bottom: 20px;
+    color: #4c3c9a;
+}
+
+#lastDivFooter
+{
+  background-color: #4c3c9a;
+  height: 40px;
+}
+
+#pFooter
+{
+  color: #fff;
+  text-align: right;
+  padding: 10px;
+}
+#card-title
+{
+  margin-top: 20px!important;
+}
+
+.card-body ul li{
+  list-style: none;
+}
+
+#logoDescription
+{
+  margin-top: 20px;
+}
+
+#btn_send
+{
+  float: right;
+    position: absolute;
+    top: 70px;
+    background: #4c3c9a;
+    color: #fff;
+    right: 0;
+    border-radius: 10px;
+}
+
+.card-body ul{
+  padding-left: 0px;
+}
+
+.card-body ul li a{
+  text-decoration: none;
+  color: #000;
+}
+
+#card2
+{
+  border:0px;
+  text-align: left;
+}
+
+#spanSatisfaction1
+{
+  border-radius: 50%;
+  height: 55px;
+    width: 65px;
+    text-align: center;
+    padding: 10px;
+    background: #ccc;
+    padding-top: 10px;
+    font-size: 20px;
+    margin-bottom: 20px;
+    color: #4c3c9a;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.card-title
+{
+  margin-bottom: 10px;
+}
+.contextDiv ul li
+{
+  list-style: none;
+  margin-bottom: 20px;
+}
+.contextDiv ul li a
+ {
+  text-decoration: none;
+  color: #fff;
+}
+
+#div_enroll
+{
+  margin-top: 60px;
+}
+
+#div_enrol2
+{
+  margin-top: 80px;
+}
+.badge
+{
+  background: #ccc;
+  color: #4c3c9a;
+  padding-left: 30px;
+  padding-right: 30px;
+  border-radius: 15px;
+  padding-bottom: 7px;
+  padding-top: 7px;
+}
+
+#divButtonExplore
+{
+  text-align: center;
+}
+.row
+{
+  width: 100% !important;
+  margin: 0px;
+}
+.img_droite_enroll
+{
+  border-radius: 40px;
+  float:right;
+}
+
+.img_droite_enrol2
+{
+  border-radius: 40px;
+  float:left;
+}
